@@ -40,3 +40,9 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 
 ### Steps to be followed: 
 ![attachment:image-3.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/blob.jpg)
+
+### Data Visualization 
+#### EDA - Descriptive Analysis
+  The Recency v/s Density Plot
+![attachment:recency.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/recency.png)
+- 
