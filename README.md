@@ -45,10 +45,12 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 #### EDA - Descriptive Analysis
 
 - The Recency v/s Density Plot
+            
             ![attachment:recency.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/recency.png)
 
 - The Monetary v/s Density Plot
-            ![attachment:monetary.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/monetary.png)
+           
+           ![attachment:monetary.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/monetary.png)
 
 ### K- Means Cluster:
 
@@ -60,4 +62,5 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
             'Bronze'
 ```
 - **Plot of Elbow Method for Optimal K Value**
-            ![attachment:Kmeans%20cluster.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/Kmeans%20cluster.png)
+           
+           ![attachment:Kmeans%20cluster.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/Kmeans%20cluster.png)
