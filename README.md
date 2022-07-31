@@ -8,7 +8,8 @@ This will enable the e-commerce company to optimize their retention and acquisit
 
 
 
-### Market Outlook: 
+### Market Outlook:
+```
 <font color='green'>E-commerce stores which became success stories were successful in targeting the desired customers.  
 One of the techniques by which they were able to achieve this was customer segmentation i.e. by segmenting the existing customers based on frequency of purchases, monetary value etc. </font>
 
@@ -23,7 +24,7 @@ In a real-world segmentation scenario, there might be hundreds of variables whic
 - **Psychographic -** <font color='green'>Segments based on geography, lifestyle, age and religious beliefs, etc.</font> 
 
 - **Behavior -** <font color='green'>Segments based on consumer personality traits, attitudes, interests, and lifestyles.</font>
-
+```
 ### Overview of the problem :  
 - **Data File Provided:** A single file is provided which contains data related to the ecommerce transactions.  
 - <font color='green'>**Contents:**</font>  
