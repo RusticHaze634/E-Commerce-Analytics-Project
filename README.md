@@ -37,6 +37,6 @@ In a real-world segmentation scenario, there might be hundreds of variables whic
 ### Objective : 
 - <font color='blue'> Build an unsupervised learning model which can enable your company   
 to analyze their customers via RFM (Recency, Frequency and Monetary value) approach.</font>
-Images/blob.jpg
+
 ### Steps to be followed: 
-![image-3.png](attachment:image-3.png)
+![attachment:image-3.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/blob.jpg)
