@@ -9,7 +9,6 @@ This will enable the e-commerce company to optimize their retention and acquisit
 
 
 ### Market Outlook:
-```
 <font color='green'>E-commerce stores which became success stories were successful in targeting the desired customers.  
 One of the techniques by which they were able to achieve this was customer segmentation i.e. by segmenting the existing customers based on frequency of purchases, monetary value etc. </font>
 
@@ -24,7 +23,7 @@ In a real-world segmentation scenario, there might be hundreds of variables whic
 - **Psychographic -** <font color='green'>Segments based on geography, lifestyle, age and religious beliefs, etc.</font> 
 
 - **Behavior -** <font color='green'>Segments based on consumer personality traits, attitudes, interests, and lifestyles.</font>
-```
+
 ### Overview of the problem :  
 - **Data File Provided:** A single file is provided which contains data related to the ecommerce transactions.  
 - <font color='green'>**Contents:**</font>  
@@ -47,21 +46,21 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 
 - The Recency v/s Density Plot
             
-![attachment:recency.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/recency.png)
+            ![attachment:recency.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/recency.png)
 
 - The Monetary v/s Density Plot
            
-![attachment:monetary.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/monetary.png)
+            ![attachment:monetary.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/monetary.png)
 
 ### K- Means Cluster:
 
 - Here 4 clusters are used. They are,
 ```
-            'Platinum'
-            'Gold'
-            'Silver'
-            'Bronze'
+                                                'Platinum'
+                                                'Gold'
+                                                'Silver'
+                                                'Bronze'
 ```
 - **Plot of Elbow Method for Optimal K Value**
            
-![attachment:Kmeans%20cluster.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/Kmeans%20cluster.png)
+            ![attachment:Kmeans%20cluster.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/Kmeans%20cluster.png)
