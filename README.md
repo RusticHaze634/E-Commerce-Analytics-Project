@@ -8,8 +8,8 @@
 This will enable the e-commerce company to optimize their retention and acquisition strategies._  </font>**
 
 
-
 ### Market Outlook:
+--------------------
 <font color='green'>E-commerce stores which became success stories were successful in targeting the desired customers.  
 One of the techniques by which they were able to achieve this was customer segmentation i.e. by segmenting the existing customers based on frequency of purchases, monetary value etc. </font>
 
@@ -25,7 +25,8 @@ In a real-world segmentation scenario, there might be hundreds of variables whic
 
 - **Behavior -** <font color='green'>Segments based on consumer personality traits, attitudes, interests, and lifestyles.</font>
 
-### Overview of the problem :  
+### Overview of the problem : 
+--------------
 - **Data File Provided:** A single file is provided which contains data related to the ecommerce transactions.  
 - <font color='green'>**Contents:**</font>  
             Date-time of sale,
@@ -33,20 +34,24 @@ In a real-world segmentation scenario, there might be hundreds of variables whic
             Price of single unit from 2016 to 2017.
 
 ### Data and Problem Detail : 
+--------------
 - <font color='green'> Draw meaningful insights from 2 years of data & provide brief details based on the monetary value, frequency of buy, etc.</font>   
 
 ### Objective : 
+--------------
 - <font color='blue'> Build an unsupervised learning model which can enable your company   
 to analyze their customers via RFM (Recency, Frequency and Monetary value) approach.</font>
 
 ### Steps to be followed: 
+--------------
 ![attachment:image-3.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/blob.jpg)
 
 ### Libraries Used :
+--------------
 - NUMPY, PANDAS, Matplotlib, Warnings
 
 ### Data Cleaning & Preprocessing:
-
+--------------
 - Checking Null, Unique and Duplicate Values
 - Drop unneccessary/ duplicate value columns after checking with supervisor
 - Drop missing value column
@@ -55,6 +60,7 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 
 ### Data Visualization :
 #### EDA - Descriptive Analysis
+--------------
 
 - The Recency v/s Density Plot
             
@@ -65,7 +71,7 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 ![attachment:monetary.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/monetary.png)
 
 ### K- Means Cluster:
-
+--------------
 - Here 4 clusters are used. They are,
 ```
                              'Platinum'
