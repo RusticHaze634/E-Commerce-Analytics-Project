@@ -50,7 +50,7 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 - Drop unneccessary/ duplicate value columns after checking with supervisor
 - Drop missing value column
 - Format column as required (Date)
-- Feature Extraction using clumn formatting and modification
+- Feature Extraction using column formatting and creating function
 
 ### Data Visualization :
 #### EDA - Descriptive Analysis
