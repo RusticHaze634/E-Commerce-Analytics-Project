@@ -41,6 +41,17 @@ to analyze their customers via RFM (Recency, Frequency and Monetary value) appro
 ### Steps to be followed: 
 ![attachment:image-3.png](https://github.com/RusticHaze634/E-Commerce-Analytics-Project/blob/main/Images/blob.jpg)
 
+### Libraries Used :
+- NUMPY, PANDAS, Matplotlib, Warnings
+
+### Data Cleaning & Preprocessing:
+
+- Checking Null, Unique and Duplicate Values
+- Drop unneccessary/ duplicate value columns after checking with supervisor
+- Drop missing value column
+- Format column as required (Date)
+- Feature Extraction using clumn formatting and modification
+
 ### Data Visualization :
 #### EDA - Descriptive Analysis
 
